@@ -28,20 +28,6 @@ The chatbot answers customer queries related to e-commerce topics such as orders
 
 
 
-# 📂 Project Structure
-ecommerce-faq-chatbot/
-│
-├── app.py
-├── faqs.csv
-├── requirements.txt
-├── README.md
-│
-└── assets/
-    └── chatbot.png
-
-
-
-
 # 📖 How It Works
 1. User enters a question in the chatbot.
 2. The input text is preprocessed using NLP techniques:

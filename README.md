@@ -27,7 +27,6 @@ The chatbot answers customer queries related to e-commerce topics such as orders
 * pandas
 
 
-
 # 📖 How It Works
 1. User enters a question in the chatbot.
 2. The input text is preprocessed using NLP techniques:
